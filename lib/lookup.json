@@ -7,7 +7,7 @@
     "branch": "napi"
   },
   "nanomsg": {
-    "skip": true,
+    "skip_tests": ["test/ipc.js", "test/tcp.js", "test/standalone/term.js"],
     "tags": "native",
     "maintainers": "sampsongao",
     "repo": "https://github.com/sampsongao/node-nanomsg",
