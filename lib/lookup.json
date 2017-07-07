@@ -11,7 +11,14 @@
     "tags": "native",
     "maintainers": "sampsongao",
     "repo": "https://github.com/sampsongao/node-nanomsg",
-    "branch": "napi-port-3.2.4"
+    "branch": "napi-port-3.2.4",
+    "clone_repo": "true"
+  },
+  "sqlite3": {
+    "tags": "native",
+    "maintainers": "sampsongao",
+    "repo": "https://github.com/mhdawson/node-sqlite3",
+    "branch": "node-addon-api"
   },
   "node-sass": {
     "prefix": "v",
