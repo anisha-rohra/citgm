@@ -11,7 +11,7 @@
     "tags": "native",
     "maintainers": "sampsongao",
     "repo": "https://github.com/sampsongao/node-nanomsg",
-    "branch": "napi-port-3.2.4",
+    "branch": "napi",
     "clone_repo": "true"
   },
   "sqlite3": {
@@ -24,7 +24,7 @@
     "prefix": "v",
     "tags": "native",
     "maintainers": "boingoing",
-    "repo": "https://github.com/boingoing/node-sass",
+    "repo": "https://github.com/sampsongao/node-sass",
     "branch": "napi"
   },
   "canvas": {
