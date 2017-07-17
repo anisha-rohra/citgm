@@ -28,6 +28,7 @@
     "branch": "napi"
   },
   "canvas": {
+    "skip": true,
     "prefix": "v",
     "tags": "native",
     "maintainers": "jasongin",
