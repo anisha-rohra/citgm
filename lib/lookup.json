@@ -3,7 +3,7 @@
     "prefix": "v",
     "tags": "native",
     "maintainers": ["jasongin", "boingoing"],
-    "repo": "https://github.com/jasongin/leveldown",
+    "repo": "https://github.com/sampsongao/leveldown",
     "branch": "napi"
   },
   "nanomsg": {
